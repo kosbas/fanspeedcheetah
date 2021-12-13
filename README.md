@@ -26,5 +26,7 @@
 Дальше у всех одинаково
 
 `cd /tmp`
+
 `chmod +x fanspeed.sh`
+
 `./fanspeed.sh`
