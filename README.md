@@ -26,7 +26,9 @@ ssh root@192.168.1.42
 Дальше у всех одинаково
 
 cd /tmp
+
 chmod +x fanspeed.sh
+
 ./fanspeed.sh
 
 [](http://)
