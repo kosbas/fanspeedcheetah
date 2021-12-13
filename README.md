@@ -1,4 +1,6 @@
 # fanspeedcheetah
+[English](https://github.com/kosbas/fanspeedcheetah/blob/main/README_EN.md)
+
 
 Этот скрипт является "костылём" для изменения скорости вентиллятора на 100% майнера Cheetah F1.
 Скорость вентиллятора изменися через 6 минут после загрузки майнера.
