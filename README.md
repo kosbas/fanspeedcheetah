@@ -7,28 +7,24 @@
 
 Копируем файл в временную директорию устройсва
 
-scp <директория_файла>fanspeed.sh root@<ip_mainera>:/tmp
+`scp <директория_файла>fanspeed.sh root@<ip_mainera>:/tmp`
 
 (пример)
-scp /tmp/fanspeed.sh root@192.168.1.42:/tmp
+`scp /tmp/fanspeed.sh root@192.168.1.42:/tmp`
 
 Вводим пароль (по умолчанию 123)
 
 Заходим по SSH в устройство
 
-ssh root@<ip_mainera>
+`ssh root@<ip_mainera>`
 
 (пример)
-ssh root@192.168.1.42
+`ssh root@192.168.1.42`
 
 Вводим пароль (по умолчанию 123)
 
 Дальше у всех одинаково
 
-cd /tmp
-
-chmod +x fanspeed.sh
-
-./fanspeed.sh
-
-[](http://)
+`cd /tmp`
+`chmod +x fanspeed.sh`
+`./fanspeed.sh`
