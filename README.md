@@ -9,14 +9,14 @@
 
 scp <директория_файла>fanspeed.sh root@<ip_mainera>:/tmp
 
-пример
+(пример)
 scp /tmp/fanspeed.sh root@192.168.1.42:/tmp
 
 Заходим по SSH в устройство
 
 ssh root@<ip_mainera>
 
-пример
+(пример)
 ssh root@192.168.1.42
 
 Вводим пароль (по умолчанию 123)
